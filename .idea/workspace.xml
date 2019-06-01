@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/text/one.py" line="19" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="786b5d04-3ef5-469f-98e6-e2e41bd60082" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clafiyy/one.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clafiyy/new/data/readme.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clafiyy/new/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clafiyy/new/baseline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clafiyy/new/baseline3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="126" column="17" lean-forward="true" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+              <folding>
+                <element signature="e#79#137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clafiyy/data/20190527_test.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-690" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clafiyy/new/data/20190527_test.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clafiyy/new/baseline1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clafiyy/data/val.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/查重.py" />
+        <option value="$PROJECT_DIR$/text/发生.py" />
+        <option value="$PROJECT_DIR$/text/asdf.py" />
+        <option value="$PROJECT_DIR$/text/对比.py" />
+        <option value="$PROJECT_DIR$/makeword.py" />
+        <option value="$PROJECT_DIR$/text/one.py" />
+        <option value="$PROJECT_DIR$/text/test.py" />
+        <option value="$PROJECT_DIR$/learner/train.py" />
+        <option value="$PROJECT_DIR$/learner/piture.py" />
+        <option value="$PROJECT_DIR$/text/fn.py" />
+        <option value="$PROJECT_DIR$/text/fncos.py" />
+        <option value="$PROJECT_DIR$/clafiyy/cut.py" />
+        <option value="$PROJECT_DIR$/clafiyy/cutword.py" />
+        <option value="$PROJECT_DIR$/clafiyy/hot.py" />
+        <option value="$PROJECT_DIR$/../venv/Lib/site-packages/prime.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/PremeNumble.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/YanghuiTriangle.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/Newton_method.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/Proton.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/Saddle_Point.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/Climbing_ladder.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/Monte_Carlo.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/Per_And_Com.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/LRU.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/6174.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/test4-1.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/test4-2.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/test5-2.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/test5-1.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/tou2/2-1.py" />
+        <option value="$PROJECT_DIR$/learner/Seaborn_learn.py" />
+        <option value="$PROJECT_DIR$/tensortfows/__init__.py" />
+        <option value="$PROJECT_DIR$/learner/__init__.py" />
+        <option value="$PROJECT_DIR$/tensortfows_learner/one.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/tou2/23.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/tou2/2-3.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/tou2/2-4.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/tou2/2-5.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/tou2/2-2.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/tou3/3-1.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/dzy/untitled.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/dzy/qttesyt.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/calc_main.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/dzy/calc_interface.py" />
+        <option value="$PROJECT_DIR$/Liu_Python/dzy/calc_main.py" />
+        <option value="$PROJECT_DIR$/clafiyy/text.py" />
+        <option value="$PROJECT_DIR$/clafiyy/one.py" />
+        <option value="$PROJECT_DIR$/clafiyy/new/baseline1.py" />
+        <option value="$PROJECT_DIR$/clafiyy/new/baseline.py" />
+        <option value="$PROJECT_DIR$/clafiyy/new/baseline3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DomRead" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DomRead" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DomRead" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DomRead" type="462c0819:PsiDirectoryNode" />
+              <item name="clafiyy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DomRead" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DomRead" type="462c0819:PsiDirectoryNode" />
+              <item name="clafiyy" type="462c0819:PsiDirectoryNode" />
+              <item name="new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DomRead" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DomRead" type="462c0819:PsiDirectoryNode" />
+              <item name="hotword" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DomRead" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DomRead" type="462c0819:PsiDirectoryNode" />
+              <item name="learner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DomRead" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DomRead" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/clafiyy/new/data" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python-project\DomRead\clafiyy\new\data" />
+      <recent name="F:\python-project\DomRead\clafiyy\new" />
+      <recent name="F:\python-project\DomRead\clafiyy\data" />
+      <recent name="F:\python-project\DomRead" />
+      <recent name="F:\python-project\DomRead\clafiyy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python-project\DomRead\Liu_Python\dzy" />
+      <recent name="F:\python-project\DomRead\Liu_Python" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.baseline3">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DomRead" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baseline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DomRead" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clafiyy/new" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clafiyy/new/baseline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baseline1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DomRead" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clafiyy/new" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clafiyy/new/baseline1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baseline3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DomRead" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clafiyy/new" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clafiyy/new/baseline3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calc_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DomRead" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Liu_Python/dzy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Liu_Python/dzy/calc_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DomRead" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clafiyy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clafiyy/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.baseline3" />
+        <item itemvalue="Python.baseline" />
+        <item itemvalue="Python.baseline1" />
+        <item itemvalue="Python.text" />
+        <item itemvalue="Python.calc_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="786b5d04-3ef5-469f-98e6-e2e41bd60082" name="Default Changelist" comment="" />
+      <created>1554261480552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554261480552</updated>
+      <workItem from="1554261482082" duration="968000" />
+      <workItem from="1554290397396" duration="715000" />
+      <workItem from="1554342681643" duration="1321000" />
+      <workItem from="1554358626560" duration="8639000" />
+      <workItem from="1554555068269" duration="1533000" />
+      <workItem from="1554561795506" duration="2953000" />
+      <workItem from="1554602303709" duration="9553000" />
+      <workItem from="1554624264848" duration="504000" />
+      <workItem from="1554625613196" duration="5613000" />
+      <workItem from="1554637790571" duration="3200000" />
+      <workItem from="1554650824137" duration="243000" />
+      <workItem from="1554904882415" duration="686000" />
+      <workItem from="1555401169790" duration="5828000" />
+      <workItem from="1555476928976" duration="1024000" />
+      <workItem from="1555477994676" duration="1340000" />
+      <workItem from="1555489066473" duration="33000" />
+      <workItem from="1555489172897" duration="6769000" />
+      <workItem from="1555551068783" duration="7281000" />
+      <workItem from="1555573147338" duration="12294000" />
+      <workItem from="1555757923918" duration="2692000" />
+      <workItem from="1555941655112" duration="2061000" />
+      <workItem from="1555999670865" duration="5273000" />
+      <workItem from="1556008062649" duration="3485000" />
+      <workItem from="1556021482645" duration="7592000" />
+      <workItem from="1556092039423" duration="1185000" />
+      <workItem from="1556093428458" duration="6755000" />
+      <workItem from="1556109245093" duration="6930000" />
+      <workItem from="1556604443891" duration="7347000" />
+      <workItem from="1557017362214" duration="4009000" />
+      <workItem from="1557213733951" duration="118000" />
+      <workItem from="1557214266354" duration="2137000" />
+      <workItem from="1557221173123" duration="723000" />
+      <workItem from="1557221950563" duration="640000" />
+      <workItem from="1557222992941" duration="49000" />
+      <workItem from="1557231498117" duration="230000" />
+      <workItem from="1557236659810" duration="2459000" />
+      <workItem from="1557816635495" duration="4187000" />
+      <workItem from="1558422308035" duration="1851000" />
+      <workItem from="1559027088101" duration="3601000" />
+      <workItem from="1559032028146" duration="2924000" />
+      <workItem from="1559296029772" duration="997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="137742000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8051948" side_tool="true" visible="true" weight="0.25869894" />
+      <window_info id="Structure" order="1" sideWeight="0.19480519" side_tool="true" weight="0.15658094" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32854864" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.45933014" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3891547" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.46166134" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27113238" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49848714" visible="true" weight="0.46166134" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.5912162" weight="0.34341908" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.4974093" weight="0.32980332" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" sideWeight="0.4087838" side_tool="true" visible="true" weight="0.28366113" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DomRead$makeword.coverage" NAME="makeword Coverage Results" MODIFIED="1554626031526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DomRead$one.coverage" NAME="one Coverage Results" MODIFIED="1557238247698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensortfows_learner" />
+    <SUITE FILE_PATH="coverage/DomRead$.coverage" NAME="对比 Coverage Results" MODIFIED="1554604079349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text" />
+    <SUITE FILE_PATH="coverage/DomRead$Newton_method.coverage" NAME="Newton_method Coverage Results" MODIFIED="1556003687278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liu_Python" />
+    <SUITE FILE_PATH="coverage/DomRead$cutword.coverage" NAME="cutword Coverage Results" MODIFIED="1555405920795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clafiyy" />
+    <SUITE FILE_PATH="coverage/DomRead$PremeNumble.coverage" NAME="PremeNumble Coverage Results" MODIFIED="1556110417033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liu_Python" />
+    <SUITE FILE_PATH="coverage/DomRead$test.coverage" NAME="test Coverage Results" MODIFIED="1554640319563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text" />
+    <SUITE FILE_PATH="coverage/DomRead$Saddle_Point.coverage" NAME="Saddle_Point Coverage Results" MODIFIED="1556024854698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Liu_Python" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learner/titanic_train.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learner/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensortfows_learner/one.py" />
+    <entry file="file://$PROJECT_DIR$/learner/Seaborn_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+          <folding>
+            <element signature="e#168#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou2/23.py" />
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou1/Climbing_ladder.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-403379789/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou2/2-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou1/Monte_Carlo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou1/Newton_method.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou1/PremeNumble.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou3/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou2/2-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="e#157#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou1/LRU.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou2/2-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou2/2-4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou2/2-3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou1/Saddle_Point.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou1/YanghuiTriangle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou1/Per_And_Com.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/dzy/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Liu_Python/tou3/3-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/dzy/untitled.py" />
+    <entry file="file://$PROJECT_DIR$/Liu_Python/dzy/qttesyt.py" />
+    <entry file="file://$PROJECT_DIR$/Liu_Python/dzy/calc_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+          <folding>
+            <element signature="e#163#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liu_Python/dzy/calc_interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotword/cutword.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotword/findbaike.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotword/findmaincontent.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotword/findword.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotword/key1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotword/learner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotword/makeword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/classf.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/cut.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/try.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/data/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/cutword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/data/try.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/data/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/new/data/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/new/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/new/baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_umd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4393">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/new/data/20190527_test.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/new/baseline1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/data/val.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/new/baseline3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="126" column="17" lean-forward="true" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+          <folding>
+            <element signature="e#79#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clafiyy/data/20190527_test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-690" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
